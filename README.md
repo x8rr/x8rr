@@ -1,12 +1,13 @@
-### 👋 Hi, I’m @cobblesteve01
-- 👀 I’m interested in learning lots of different programming languages
-- 🌱 I’m currently learning JavaScript and Python
-- 💞️ I’m looking to collaborate on web games or plugins and things like that. I'm also pretty good at CSS
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I have over 1k subs on YouTube!
-- 🔗 You can check out my YouTube channel here >>> https://youtube.com/cobblesteve.official
+<h1 align='center' style='font-size: 40px; color: blue;'>cobblesteve01</h1>
+<p align='center'>Front-End Developer</p>
 
-<!---
-cobblesteve01/cobblesteve01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br>
+
+<h2 align='center'>Currently Knows:</h2>
+<p align='center'>- HTML <br> - CSS <br> - Some JavaScript</p>
+
+<br>
+
+<h2 align='center'>Is Learning:</h2>
+<p align='center'>- JavaScript <br> - CSS <br> - Python</p>
+
