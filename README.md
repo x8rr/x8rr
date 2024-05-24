@@ -9,5 +9,5 @@
 <br>
 
 <h2 align='center'>Is Learning:</h2>
-<p align='center'>- JavaScript <br> - CSS <br> - Python</p>
+<p align='center'>- JavaScript <br> - Python</p>
 
