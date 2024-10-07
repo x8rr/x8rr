@@ -5,8 +5,8 @@
 <h2 align='center'>Projects:</h2>
 <p align='center'>
     @dontblockthis // Classboard // Position(s): CEO, Founder, Head Developer <br>
-    Eaglercraft Extras // Position(s): CEO, Founder, Head Developer
-    RandomRizz // Position(s): Developer
+    Eaglercraft Extras // Position(s): CEO, Founder, Head Developer <br>
+    RandomRizz // Position(s): Developer <br>
     MewTube // Position(s): CEO, Founder Head Developer
 
 </p>
