@@ -1,21 +1,31 @@
-<h1 align='center' style='font-size: 40px; color: blue;'>cobblesteve01</h1>
-<p align='center'>Front-End Developer</p>
+# Hi i'm Cobblesteve <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
-<br>
-<h2 align='center'>Projects:</h2>
-<p align='center'>
-    Classboard // Position(s): CEO, Founder, Head Developer <br>
-    Eaglercraft Extras // Position(s): CEO, Founder, Head Developer <br>
-    RandomRizz // Position(s): Developer <br>
-    MewTube // Position(s): CEO, Founder Head Developer
+I'm a **Developer**  and an advocate for building **responsive**, **accessible** and **beautiful** digital experiences for the web 
+- Open to project collaborations
+- You can reach me through: <a href="https://cobblesteve.github.io" title="Portfolio"><img alt="Gform"  src="https://img.shields.io/badge/website-f59042?style=for-the-badge&logo=About.me&logoColor=white" height="30" align="center"/> </a> <a href="mailto:channelediting521@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> /></a> 
+- **NOTE** : You can **fork** and **contribute** to any of the projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" />
 
+[- Currently working on <a href="https://book-commerce-murex.vercel.app/"ac>book commerce</a>]::
+ 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> My Recent Projects 
+
+ 1. [Classboard](https://superhardalgebraproblems.github.io/)
+ 2. [Classboard-Teacher](https://classboard-teacher.github.io)
+ 3. [Nasr Gaming Studio](https://www.canva.com/design/DAGSn0O9vFQ/k_mjfH-fhIi3Yeg6WOVhrQ/watch?utm_content=DAGSn0O9vFQ&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,firebase,md,github,vscode,stackoverflow&perline=13)](#)
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
+
+ [![John's github stats](https://bad-apple-github-readme.vercel.app/api?username=cobblesteve01&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+ 
+ [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=cobblesteve01&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
+[![John Mwendwa's current streak](https://streak-stats.demolab.com/?user=cobblesteve01&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-
-
-<h2 align='center'>Currently Knows:</h2>
-<p align='center'>- HTML <br> - CSS <br> - Some JavaScript</p>
-<br>
-
-<h2 align='center'>Is Learning:</h2>
-<p align='center'>- JavaScript <br> - Python</p>
 
