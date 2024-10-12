@@ -9,13 +9,13 @@ I'm a **Developer**  and an advocate for building **responsive**, **accessible**
  
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> My Recent Projects 
 
- 1. [Classboard](https://superhardalgebraproblems.github.io/)
- 2. [Classboard-Teacher](https://classboard-teacher.github.io)
- 3. [Nasr Gaming Studio](https://www.canva.com/design/DAGSn0O9vFQ/k_mjfH-fhIi3Yeg6WOVhrQ/watch?utm_content=DAGSn0O9vFQ&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+ 1. [Classboard](https://github.com/hardmathproblems/hardmathproblems.github.io)
+ 2. [Eaglercraft Extras](https://cobblesteve01.github.io/Eaglercraft-Extras)
+ 3. [ClassPlay](https://github.com/hardmathproblems/classplay-repo)
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,firebase,md,github,vscode,stackoverflow&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,md,github,vscode,stackoverflow&perline=13)](#)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
 
