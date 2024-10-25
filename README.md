@@ -6,7 +6,7 @@
 Front-end developer, CEO of [Classboard](https://github.com/spookyseasonlol), [Eaglercraft Extras](https://cobblesteve01.github.io/Eaglercraft-Extras), and co-owner of [RandomRizz](https://github.com/cobblesteve01/rizz)
 
 ## **Languages and Tools:**  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,md,github,vscode,stackoverflow&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,md,github,vscode,stackoverflow,java,python,c&perline=13)](#)
 
 ## Github Stats 
 
