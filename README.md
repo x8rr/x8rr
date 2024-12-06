@@ -14,5 +14,5 @@ Front-end developer, CEO of [Classboard](https://github.com/spookyseasonlol/spoo
 
 ## Github Stats 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cobblesteve01&show_icons=true&theme=algolia&border_radius=15&line_height=40) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cobblesteve01&theme=algolia&border_radius=15)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cobblesteve01&show_icons=true&theme=transparent&border_radius=0&line_height=40) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cobblesteve01&theme=transparent&border_radius=0)](https://github.com/anuraghazra/github-readme-stats)
 
