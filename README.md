@@ -1,12 +1,12 @@
-# [cobblesteve01](https://cobblesteve01.github.io)
+# [andrew](https://yk4ndrew.github.io)
 > making random stuff for the internet :P
 
 > INFT (or logician) personality
 
-Front-end developer, CEO of [Classboard](https://github.com/spookyseasonlol/spookyseasonlol.github.io), [Eaglercraft Extras](https://cobblesteve01.github.io/Eaglercraft-Extras), [Classplay](https://useclassplay.github.io), and co-owner of [RandomRizz](https://github.com/cobblesteve01/rizz)
+Front-end developer, owner of [Classboard](https://github.com/spookyseasonlol/spookyseasonlol.github.io), [Eaglercraft Extras](https://cobblesteve01.github.io/Eaglercraft-Extras), [Classplay](https://useclassplay.github.io), and co-owner of [RandomRizz](https://github.com/cobblesteve01/rizz)
 
 ## **Languages, tools, and other software I use:**  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,svelte,md,github,vscode,git,npm,firebase&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,md,github,vscode,git,npm,firebase&perline=6)](#)
 
 ## Socials
 
@@ -14,5 +14,5 @@ Front-end developer, CEO of [Classboard](https://github.com/spookyseasonlol/spoo
 
 ## Github Stats 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cobblesteve01&show_icons=true&theme=transparent&border_radius=0&line_height=40) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cobblesteve01&theme=transparent&border_radius=0)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yk4ndrew&show_icons=true&theme=transparent&border_radius=0&line_height=40) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yk4ndrew&theme=transparent&border_radius=0)](https://github.com/anuraghazra/github-readme-stats)
 
