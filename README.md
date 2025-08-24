@@ -1,9 +1,6 @@
-# [andrew]()
-> arial only looks good italicized
+# afterddark (andrew)
 
-> INFT (or logician) personality
-
-Front-end developer, owner of [Eaglercraft Extras](https://eaglercraftextras.github.io), [Classplay](https://useclassplay.vercel.app), and co-owner of [RandomRizz](https://github.com/afterddark/rizz)
+Front-end developer
 
 ## **Languages, tools, and other software I use:**  
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,github,vscode,git,npm,firebase&perline=15)](#)
