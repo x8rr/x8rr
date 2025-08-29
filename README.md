@@ -7,7 +7,7 @@ Front-end developer
 
 ## Socials
 
-<a href="https://discordapp.com/users/979137914464247838">![alt](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)</a> <a href="https://youtube.com/@cl1pped">![alt](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)</a>
+<a href="https://discordapp.com/users/979137914464247838">![alt](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)</a> <a href="https://youtube.com/@cl1ppedae">![alt](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)</a>
 
 ## Github Stats 
 
