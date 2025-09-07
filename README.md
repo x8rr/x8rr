@@ -1,6 +1,6 @@
 # cl1pped
 
-Front end dev, owner of Adurite Network
+Front end dev, owner of Tenclips (not the clipboard tool)
 
 Probably working on something right now.
 
