@@ -1,6 +1,6 @@
 # x8rr (xor)
 
-Front end dev, owner of Tenclips (not the clipboard tool)
+Front end dev, owner of Tenclips UBG and EaglercraftExtras
 
 Probably working on something right now.
 
