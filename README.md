@@ -10,3 +10,5 @@ Probably working on something right now.
 
 
 ###### Feel free to contact me on Discord (@_x8rr)
+
+![](https://komarev.com/ghpvc/?username=x8rr&color=1e90ff)
