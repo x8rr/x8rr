@@ -1,14 +1,19 @@
-# x8rr (xor)
+# [x8rr (xor)](https://x8r.dev/)
 
-Front end dev, owner of Tenclips UBG and EaglercraftExtras
+Front end developer
 
-Probably working on something right now.
+Owner of Eaglercraft Extras and a ton of UBG sites.
 
-> Learning Astro
+**Languages I've worked with before**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,astro,svelte,vite,nodejs,tailwind,aftereffects,git,bun&perline=6)](#)
+[![Things I've worked with before](https://skillicons.dev/icons?i=html,css,js,ts,astro,svelte,vite,nodejs,react,tailwind,aftereffects,git&perline=6)](#)
 
+###### <sup>No promises I'm good at them</sup>
+
+#### Projects I'm working on right now
+- [Sapira](https://sapira.rhw.one)
+- That's it (temporarily)
 
 ###### Feel free to contact me on Discord (@_x8rr)
 
-![](https://komarev.com/ghpvc/?username=x8rr&color=1e90ff)
+![](https://komarev.com/ghpvc/?username=x8rr&color=1d1d1d)
