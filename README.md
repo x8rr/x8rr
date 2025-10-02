@@ -4,7 +4,7 @@ Front end developer
 
 Owner of Eaglercraft Extras and a ton of UBG sites.
 
-**Languages I've worked with before**
+**Languages and tools I've worked with before**
 
 [![Things I've worked with before](https://skillicons.dev/icons?i=html,css,js,ts,astro,svelte,vite,nodejs,react,tailwind,aftereffects,git&perline=6)](#)
 
