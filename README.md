@@ -14,9 +14,6 @@ Owner of Eaglercraft Extras and a ton of UBG sites.
 - [Sapira](https://sapira.rhw.one)
 - That's it (temporarily)
 
-#### Projects on Gitlab
-- [Comet](https://gitlab.com/x8r/comet)
-
 ###### Feel free to contact me on Discord (@_x8rr)
 
 ![](https://komarev.com/ghpvc/?username=x8rr&color=1d1d1d)
