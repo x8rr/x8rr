@@ -1,5 +1,10 @@
-<p align="center">
-  <img height="345" alt="image" src="https://github.com/user-attachments/assets/d5c743d1-a976-475c-b2f9-3f44edb63aba" />
-</p>
-<div align="center"><sup>didn't feel like writing a readme, so just look at my website ^^
-</sup></div>
+# [x8r](x8r.dev)
+front end developer
+
+
+html, css, js, ts, astro
+
+
+currently working on [breeze](https://github.com/x8rr/breeze/), [nautilusos](https://github.com/nautilus-os/), and [sapira](https://sapira.rhw.one/)
+
+check out my pinned repos btw :D
