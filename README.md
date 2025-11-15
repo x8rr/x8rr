@@ -1,4 +1,4 @@
-# [x8r](x8r.dev)
+# [x8r](https://x8r.dev)
 front end developer
 
 
