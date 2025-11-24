@@ -2,9 +2,9 @@
 front end developer
 
 
-html, css, js, ts, astro
+html, css, js, astro
 
 
-currently working on [breeze](https://github.com/x8rr/breeze/), [nautilusos](https://github.com/nautilus-os/), and [sapira](https://sapira.rhw.one/)
+currently working on [cherri](https://github.com/x8rr/cherri/), [nautilusos](https://github.com/nautilus-os/), and [sapira](https://sapira.rhw.one/)
 
 check out my pinned repos btw :D
