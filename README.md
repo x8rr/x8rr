@@ -3,6 +3,7 @@ fullstack developer
 
 ## projects i own/help with
 - [cherri](https://cherrion.top/) (owner)
+- [gmshelf](https://github.com/gmshelf) (owner)
 - [lucide](https://cdn.jsdelivr.net/gh/lucideproxy/svg/index.svg)
 - [quasar](https://visaliainvitational.com/)
 - [vortex](https://vtx.chat)
