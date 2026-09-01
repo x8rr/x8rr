@@ -1,5 +1,5 @@
 # [x8r](https://x8r.dev)
-fullstack developer
+fullstack developer and web porter. i've probably helped with one of your favorite (unblocker) sites!
 
 ## projects i own/help with
 - [cherri](https://cherrion.top/) (owner)
@@ -18,5 +18,8 @@ fullstack developer
 - [x8rr/stratus-api](https://github.com/x8rr/stratus-api)
 - [x8rr/sapphire](https://github.com/x8rr/sapphire)
 - [gmshelf](https://github.com/gmshelf)
+
+## my webports
+- crashout crew (coming very soon!)
 
 check pinned repos
