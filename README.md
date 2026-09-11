@@ -2,7 +2,7 @@
 fullstack developer and web porter. i've probably helped with one of your favorite (unblocker) sites!
 
 ## projects i own/help with
-- [cherri](https://cherrion.top/) (owner)
+- [cherri](https://cherrion.top/) (ex-owner)
 - [gmshelf](https://github.com/gmshelf) (owner)
 - [lucide](https://cdn.jsdelivr.net/gh/lucideproxy/svg/index.svg)
 - [quasar](https://visaliainvitational.com/)
