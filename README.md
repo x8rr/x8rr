@@ -2,6 +2,7 @@
 fullstack developer and web porter. i've probably helped with one of your favorite (unblocker) sites!
 
 ## projects i own/help with
+- breeze (coming soon)
 - [cherri](https://cherrion.top/) (ex-owner)
 - [gmshelf](https://github.com/gmshelf) (owner)
 - [lucide](https://cdn.jsdelivr.net/gh/lucideproxy/svg/index.svg)
@@ -20,6 +21,6 @@ fullstack developer and web porter. i've probably helped with one of your favori
 - [gmshelf](https://github.com/gmshelf)
 
 ## my webports
-- crashout crew (coming very soon!)
+- [crashout crew](https://wasm.rip/files/cc/index.html)
 
 check pinned repos
