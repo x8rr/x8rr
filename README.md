@@ -10,7 +10,7 @@ fullstack developer and web porter. i've probably helped with one of your favori
 - [vortex](https://vtx.chat)
 - [nautilusOS](https://nautilus-os.vercel.app/)
 - [gust](https://github.com/nautilus-os/gust)
-- [toustream](https://toustream.xyz/)
+- [toustream](https://toustream.xyz/) (shut down)
 - [wasm.rip](https://wasm.rip)
 - [chillzone](https://chillzone.dev)
 
