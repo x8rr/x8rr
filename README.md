@@ -13,6 +13,7 @@ fullstack developer and web porter. i've probably helped with one of your favori
 - [gust](https://github.com/nautilus-os/gust)
 - [toustream](https://toustream.xyz/)
 - [wasm.rip](https://wasm.rip)
+- [nocturne.lol](https://nocturne.lol)
 - [chillzone](https://chillzone.dev)
 
 ## my apis/libs
