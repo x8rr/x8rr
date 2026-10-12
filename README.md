@@ -5,6 +5,7 @@ fullstack developer and web porter. i've probably helped with one of your favori
 - [breeze](https://breezeunb.locker) (owner)
 - [cherri](https://cherrion.top/) (ex-owner)
 - [gmshelf](https://github.com/gmshelf) (owner)
+- [fern](https://fern.best/) (co-owner)
 - [lucide](https://cdn.jsdelivr.net/gh/lucideproxy/svg/index.svg)
 - [quasar](https://visaliainvitational.com/)
 - [vortex](https://vtx.chat)
