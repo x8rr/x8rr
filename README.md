@@ -14,7 +14,7 @@ fullstack developer and web porter. i've probably helped with one of your favori
 - [wasm.rip](https://wasm.rip)
 - [chillzone](https://chillzone.dev)
 
-## my apis
+## my apis/libs
 - [x8rr/movies](https://github.com/x8rr/movies)
 - [x8rr/music](https://github.com/x8rr/music)
 - [x8rr/stratus-api](https://github.com/x8rr/stratus-api)
