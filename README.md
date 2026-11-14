@@ -3,7 +3,7 @@ fullstack developer and web porter. i've probably helped with one of your favori
 
 ## projects i own/help with
 - [breeze](https://breezeunb.locker) (owner)
-- [cherri](https://cherrion.top/) (owner)
+- [cherri](https://cherrion.top/) (founder/ex-owner)
 - [gmshelf](https://github.com/gmshelf) (owner)
 - [fern](https://fern.best/) (co-owner)
 - [lucide](https://cdn.jsdelivr.net/gh/lucideproxy/svg/index.svg)
