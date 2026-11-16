@@ -17,6 +17,8 @@ fullstack developer and web porter. i've probably helped with one of your favori
 - [chillzone](https://chillzone.dev)
 
 ## my apis/libs
+- [x8rr/webblox-built](https://github.com/x8rr/webblox-built)
+- [x8rr/webblox](https://github.com/x8rr/webblox)
 - [x8rr/manga](https://github.com/x8rr/manga)
 - [x8rr/movies](https://github.com/x8rr/movies)
 - [x8rr/music](https://github.com/x8rr/music)
